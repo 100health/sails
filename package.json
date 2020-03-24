@@ -78,7 +78,7 @@
     "semver": "^4.3.2",
     "skipper": "~0.5.5",
     "uid-safe": "^1.0.1",
-    "waterline": "~0.10.17"
+    "waterline": "git://github.com/100health/waterline.git#fcaad7f59a693fac09e99bb41411ebf0215dbcb7"
   },
   "devDependencies": {
     "root-require": "~0.2.0",
