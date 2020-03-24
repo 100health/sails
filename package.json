@@ -67,6 +67,7 @@
     "sort-route-addresses": "^0.0.1",
     "uid-safe": "2.1.5",
     "vary": "1.1.2",
+    "waterline": "git://github.com/100health/waterline.git#fcaad7f59a693fac09e99bb41411ebf0215dbcb7",
     "whelk": "^6.0.0"
   },
   "devDependencies": {
